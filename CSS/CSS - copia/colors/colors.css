@@ -1,0 +1,14 @@
+div{
+    height: 500px;width: 500px;
+    background-color: aqua;
+    padding: 200px;
+    margin: 200px;
+    border: 30px,solid,pink;
+}
+.inside{
+    height: 150px;width: 150px;
+    background-color: purple;
+    padding: 120px;
+    margin: 100px;
+    border: 30px,solid,red;
+}

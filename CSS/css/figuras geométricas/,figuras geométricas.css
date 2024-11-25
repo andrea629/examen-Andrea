@@ -1,0 +1,28 @@
+div{
+   
+width: 100px;
+height:  100px;
+background: aqua;
+}
+  .circulo{
+    
+    width: 100px;
+    height:  100px;
+    border-radius: 50%;
+    background: green;
+  }
+  .rombo{
+    
+    width: 0;
+    height: 0;
+    border-left: 100px solid orange;
+    border-top: 50px solid transparent;
+    border-bottom: 100px solid transparent;
+}
+ .triangulo{
+    
+    width: 100px;
+    height: 100px;
+    background-color: aquamarine;
+    transform: rotate(45deg);
+  }

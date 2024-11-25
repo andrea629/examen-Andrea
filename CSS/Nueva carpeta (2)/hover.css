@@ -1,0 +1,19 @@
+.div{
+    width: 100px; 
+    height:  100px;
+    background: pink;
+    padding: 200px;
+    margin: 17px;
+}
+
+.tex-color:hover{
+color: brown;
+}
+
+.adjust-div:hover{
+transform: translate(200px, 0);
+}
+
+.rotate-div:hover{
+transform: rotate(0.90turn);
+}
